@@ -76,22 +76,6 @@ Everything runs automatically, creating **self-sufficient, ready-to-use workstat
 
 ---
 
-## 🛠️ How It Works 🧩
-
-1. **Trigger the workflow** with an instance number (e.g., 1, 2, 3) ✋
-2. **Sets up environment variables** including secrets and repository info 🔐
-3. **Boots the instance** with a personalized visual environment 🎨
-4. **Deploys browsers** (Chrome & Brave) and installs multiple isolated profiles 🖥️
-5. **Installs curated extensions** for privacy, productivity, and automation 🛡️
-6. **Secures remote access** via RDP and ngrok tunnel 🌐
-7. **Deploys additional tools** like IDM and Cloudflare WARP ⚡
-8. **Creates a data vault** on the desktop for file management 📂
-9. **Logs deployment status** at each stage for tracking 📝
-10. **Triggers next instance** automatically via GitHub Actions ✋
-11. **Monitors uptime** and gracefully shuts down after the mission ⏹️
-
----
-
 ## 🎯 Usage 🎮
 
 1. Fork this repository and enable Actions 🍴
