@@ -29,6 +29,8 @@ This GitHub Actions workflow automates the deployment of **EnigMano Windows 11 i
 
 Everything runs automatically, creating **self-sufficient, ready-to-use workstations**.
 
+A demo video about this project can be accessed here: https://bit.ly/Free-RDP-Win-11-Github
+
 ---
 
 ## ⚡ Fortress Overview 🏰
