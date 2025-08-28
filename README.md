@@ -31,35 +31,6 @@ Everything runs automatically, creating **self-sufficient, ready-to-use workstat
 
 ---
 
-## 🚀 Features & Highlights ⚡
-
-* Full **Windows 11 instance orchestration** 🖥️
-* Automatic **environment personalization** 🎨
-* Multi-browser deployment: **Chrome & Brave**
-* **13 curated extensions** installed silently across isolated profiles 🛡️
-* Secure access with **RDP, firewall, and ngrok tunnel** 🌐
-* Automated software deployments: IDM & Cloudflare WARP ⚡
-* **Data vault** creation on desktop for organized storage 📂
-* Step-by-step **logging & status reporting** 📝
-* Automated **instance handoff** via GitHub Actions ✋
-* Graceful shutdown and cleanup of instances ⏹️
-
----
-
-## 🗓️ Mission Timeline & Phases ⏱️
-
-| Phase                   | Duration (Minutes) | Role in the Campaign                          | Emoji |
-| ----------------------- | ------------------ | --------------------------------------------- | ----- |
-| **Active Sentinel 🛡️** | 330                | Instance fully active, tools & browsers ready | 🛡️   |
-| **Relay Preparation ✋** | 5                  | Deploys next instance automatically           | ✋     |
-| **Final Countdown ⏹️**  | 5                  | Graceful shutdown & cleanup                   | ⏹️    |
-
-* **Total Mission Time:** 340 minutes ⏱️
-* **Relay Trigger:** At 330 minutes ✋
-* **Shutdown Command:** At 335 minutes ⏹️
-
----
-
 ## ⚡ Fortress Overview 🏰
 
 | Parameter               | Value / Action                                                                                                                                                                                                                                 |
@@ -73,17 +44,6 @@ Everything runs automatically, creating **self-sufficient, ready-to-use workstat
 | Secure Access           | RDP enabled, firewall configured, ngrok tunnel 🌐                                                                                                                                                                                              |
 | Mission Duration        | 340 minutes ⏱️                                                                                                                                                                                                                                 |
 | Logs & Reporting        | Step-by-step deployment + final status 📝                                                                                                                                                                                                      |
-
----
-
-## 🎯 Usage 🎮
-
-1. Fork this repository and enable Actions 🍴
-2. Open your repo's **Actions** tab 🔍
-3. Select the **EnigMano Windows 11 Deployment** workflow ✋
-4. Click **Run workflow** ▶️
-5. Enter **INSTANCE** number (default: 1) 🔢
-6. Confirm & watch your Windows 11 fortress deploy ⚔️
 
 ---
 
